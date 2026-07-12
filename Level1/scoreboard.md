@@ -2,11 +2,11 @@
 
 Auf der Homepage von Juice Shop rechtsklick und dann auf "Inspect(Q)":
 
-![JSBild1](Level1/Bilder/scoreboard1.png)
+![JSBild](Level1/Bilder/scoreboard1.png)
 
 Anschließend im Inspector nach "score" suchen:
 
-![JSBild2](Level1/Bilder/scoreboard2.png)
+![JSBild](Level1/Bilder/scoreboard2.png)
 
 Bei der Suche erscheint href="#/score-board". 
 
