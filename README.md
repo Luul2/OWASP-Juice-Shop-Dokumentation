@@ -39,6 +39,6 @@ Nach einem Neustart kann der Container mit dem folgenden Befehl erneut gestartet
 - [ ] [Outdated Allowlist](../main/Level1/outdated-whitelist.md) Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
 - [ ] [Privacy Policy](../main/Level1/privacy-policy.md) - Read our privacy policy.
 - [ ] [Repetitive Registration](../main/Level1/repeat-register.md) - Follow the DRY principle while registering a user. 
-- [ ] [Score Board](../main/Level1/scoreboard.md) - Find the carefully hidden 'Score Board' page.
+- [X] [Score Board](../main/Level1/scoreboard.md) - Find the carefully hidden 'Score Board' page.
 - [ ] [Zero Stars](../main/Level1/zerostars.md) - Give a devastating zero-star feedback to the store.
 - [ ] [Web3 Sandbox](../main/Level1/web3-sandbox.md) - Find an accidentally deployed code sandbox for writing smart contracts on the fly.
