@@ -20,4 +20,4 @@ Prüfung, ob Juice Shop läuft:
 
     sudo docker ps 
 
-Jetzt kann der Juice shop mit '''http://localhost:3000''' geöffnet werden
+Jetzt kann der Juice shop mit http://localhost:3000 geöffnet werden
