@@ -33,7 +33,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [ ] [Mass Dispel](../main/Level1/mass-dispel.md) -Close multiple "Challenge solved"-notifications in one go.
 - [ ] [Confidential Document](../main/Level1/confidential-document.md) - Access a confidential document.
 - [ ] [DOM XSS](../main/Level1/dom-xss.md) - Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
-- [ ] [Error Handling](../main/Level1/error-handling.md) - Provoke an error that is neither very gracefully nor consistently handled.
+- [X] [Error Handling](../main/Level1/error-handling.md) - Provoke an error that is neither very gracefully nor consistently handled.
 - [ ] [Exposed Metrics](../main/Level1/exposed-metrics.md) - Find the endpoint that serves usage data to be scraped by a popular monitoring system.
 - [ ] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
 - [ ] [Outdated Allowlist](../main/Level1/outdated-allowlist.md) Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
@@ -49,7 +49,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [ ] [Exposed credentials](../main/Level2/exposed-credentials.md) - A developer was careless with hardcoding unused, but still valid credentials for a testing account on the client-side.
 - [ ] [Empty User Registration](../main/Level2/empty-user-registration.md) - Register a user with an empty email and password.
 - [ ] [Five-Star Feedback](../main/Level2/5-star-feedback.md) - Get rid of all 5-star customer feedback.
-- [ ] [Login Admin](../main/Level2/login-admin.md) - Log in with the administrator's user account.
+- [X] [Login Admin](../main/Level2/login-admin.md) - Log in with the administrator's user account.
 - [ ] [Login MC SafeSearch](../main/Level2/login-mc-safesearch.md) - Log in with MC SafeSearch's original user credentials without applying SQL Injection or any other bypass.
 - [ ] [Meta Geo Stalking](../main/Level2/meta-geo-stalking.md) - Determine the answer to John's security question by looking at an upload of him to the Photo Wall and use it to reset his password via the Forgot Password mechanism.
 - [ ] [NFT Takeover](../main/Level2/nft-takeover.md) - Take over the wallet containing our official Soul Bound Token (NFT).
