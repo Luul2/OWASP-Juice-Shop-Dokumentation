@@ -37,7 +37,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [ ] [Exposed Metrics](../main/Level1/exposed-metrics.md) - Find the endpoint that serves usage data to be scraped by a popular monitoring system.
 - [ ] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
 - [ ] [Outdated Allowlist](../main/Level1/outdated-allowlist.md) Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
-- [ ] [Privacy Policy](../main/Level1/privacy-policy.md) - Read our privacy policy.
+- [X] [Privacy Policy](../main/Level1/privacy-policy.md) - Read our privacy policy.
 - [ ] [Repetitive Registration](../main/Level1/repetitive-registration.md) - Follow the DRY principle while registering a user. 
 - [X] [Score Board](../main/Level1/scoreboard.md) - Find the carefully hidden 'Score Board' page.
 - [ ] [Zero Stars](../main/Level1/zerostars.md) - Give a devastating zero-star feedback to the store.
