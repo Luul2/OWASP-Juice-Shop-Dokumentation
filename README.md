@@ -1,5 +1,5 @@
 # OWASP-Juice-Shop-Dokumentation
-OWASP Juice Shop ist eine absichtlich verwundbare Webanwendung, die entwickelt wurde, um typische Sicherheitslücken moderner Webanwendungen praktisch zu lernen und zu testen.
+Der OWASP Juice Shop wird von der OWASP Foundation für Lernzwecke zur Verfügung gestellt. Dabei handelt es sich um eine absichtlich verwundbare Webanwendung, die entwickelt wurde, um typische Sicherheitslücken (z. B. SQL Injection, Cross-Site Scripting und Broken Access Control) kontrolliert auszunutzen. 
 Diese Dokumentation enthält die Installation mit Docker sowie Lösungen und Walkthroughs zu verschiedenen Aufgaben und Schwachstellen.
 
 **Voraussetzungen:**
