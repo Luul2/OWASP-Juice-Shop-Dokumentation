@@ -22,7 +22,7 @@ Prüfung, ob Juice Shop läuft:
 
 Jetzt kann der Juice shop mit http://localhost:3000 geöffnet werden
 
-Nach einem Neustart kann der Container mit dem folgenden Befehl erneut gestartet werden:
+Um den Container nach einem Systemneustart zu starten, kann folgender Befehl verwendet werden:
 
     sudo docker start juice-shop
 
