@@ -32,7 +32,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [ ] [Bonus Payload](../main/Level1/bonus-payload.md) - Use the bonus payload in the DOM XSS Challenge.
 - [ ] [Mass Dispel](../main/Level1/mass-dispel.md) -Close multiple "Challenge solved"-notifications in one go.
 - [ ] [Confidential Document](../main/Level1/confidential-document.md) - Access a confidential document.
-- [ ] [DOM XSS](../main/Level1/dom-xss.md) - Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
+- [X] [DOM XSS](../main/Level1/dom-xss.md) - Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
 - [X] [Error Handling](../main/Level1/error-handling.md) - Provoke an error that is neither very gracefully nor consistently handled.
 - [ ] [Exposed Metrics](../main/Level1/exposed-metrics.md) - Find the endpoint that serves usage data to be scraped by a popular monitoring system.
 - [ ] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
