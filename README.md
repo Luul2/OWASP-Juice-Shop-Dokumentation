@@ -29,7 +29,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 # Lösungen
 
 ## Level 1 Challenges
-- [ ] [Bonus Payload](../main/Level1/bonus-payload.md) - Use the bonus payload in the DOM XSS Challenge.
+- [X] [Bonus Payload](../main/Level1/bonus-payload.md) - Use the bonus payload in the DOM XSS Challenge.
 - [ ] [Mass Dispel](../main/Level1/mass-dispel.md) -Close multiple "Challenge solved"-notifications in one go.
 - [ ] [Confidential Document](../main/Level1/confidential-document.md) - Access a confidential document.
 - [X] [DOM XSS](../main/Level1/dom-xss.md) - Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
