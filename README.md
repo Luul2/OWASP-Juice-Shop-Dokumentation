@@ -38,7 +38,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [ ] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
 - [ ] [Outdated Allowlist](../main/Level1/outdated-allowlist.md) - Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
 - [X] [Privacy Policy](../main/Level1/privacy-policy.md) - Read our privacy policy.
-- [ ] [Repetitive Registration](../main/Level1/repetitive-registration.md) - Follow the DRY principle while registering a user. 
+- [X] [Repetitive Registration](../main/Level1/repetitive-registration.md) - Follow the DRY principle while registering a user. 
 - [X] [Score Board](../main/Level1/scoreboard.md) - Find the carefully hidden 'Score Board' page.
 - [X] [Zero Stars](../main/Level1/zerostars.md) - Give a devastating zero-star feedback to the store.
 - [ ] [Web3 Sandbox](../main/Level1/web3-sandbox.md) - Find an accidentally deployed code sandbox for writing smart contracts on the fly.
