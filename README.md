@@ -41,7 +41,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Repetitive Registration](../main/Level1/repetitive-registration.md) - Follow the DRY principle while registering a user. 
 - [X] [Score Board](../main/Level1/scoreboard.md) - Find the carefully hidden 'Score Board' page.
 - [X] [Zero Stars](../main/Level1/zerostars.md) - Give a devastating zero-star feedback to the store.
-- [ ] [Web3 Sandbox](../main/Level1/web3-sandbox.md) - Find an accidentally deployed code sandbox for writing smart contracts on the fly.
+- [X] [Web3 Sandbox](../main/Level1/web3-sandbox.md) - Find an accidentally deployed code sandbox for writing smart contracts on the fly.
 
 ## Level 2 Challenges
 - [ ] [Admin Section](../main/Level2/admin-section.md) - Access the administration section of the store.
