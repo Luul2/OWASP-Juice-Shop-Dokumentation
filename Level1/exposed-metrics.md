@@ -4,7 +4,7 @@ Um den versteckten Monitoring-Endpunkt zu finden, wurde die Standardkonfiguratio
 
 Durch Aufrufen von:
 
-    http://127.0.0.1:3000/metrics
+    http://localhost:3000/metrics
 
 Erscheint eine Seite mit internen Informationen über die Anwendung, darunter Prozessinformationen wie CPU-Auslastung oder Speicherverbrauch:
 
