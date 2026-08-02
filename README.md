@@ -36,7 +36,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Error Handling](../main/Level1/error-handling.md) - Provoke an error that is neither very gracefully nor consistently handled.
 - [ ] [Exposed Metrics](../main/Level1/exposed-metrics.md) - Find the endpoint that serves usage data to be scraped by a popular monitoring system.
 - [ ] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
-- [ ] [Outdated Allowlist](../main/Level1/outdated-allowlist.md) Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
+- [ ] [Outdated Allowlist](../main/Level1/outdated-allowlist.md) - Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
 - [X] [Privacy Policy](../main/Level1/privacy-policy.md) - Read our privacy policy.
 - [ ] [Repetitive Registration](../main/Level1/repetitive-registration.md) - Follow the DRY principle while registering a user. 
 - [X] [Score Board](../main/Level1/scoreboard.md) - Find the carefully hidden 'Score Board' page.
