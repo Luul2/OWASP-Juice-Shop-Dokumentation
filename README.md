@@ -47,8 +47,8 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Admin Section](../main/Level2/admin-section.md) - Access the administration section of the store.
 - [ ] [Deprecated Interface](../main/Level2/deprecated-interface.md) - Use a deprecated B2B interface that was not properly shut down.
 - [ ] [Exposed credentials](../main/Level2/exposed-credentials.md) - A developer was careless with hardcoding unused, but still valid credentials for a testing account on the client-side.
-- [ ] [Empty User Registration](../main/Level2/empty-user-registration.md) - Register a user with an empty email and password.
-- [ ] [Five-Star Feedback](../main/Level2/5-star-feedback.md) - Get rid of all 5-star customer feedback.
+- [X] [Empty User Registration](../main/Level2/empty-user-registration.md) - Register a user with an empty email and password.
+- [X] [Five-Star Feedback](../main/Level2/5-star-feedback.md) - Get rid of all 5-star customer feedback.
 - [X] [Login Admin](../main/Level2/login-admin.md) - Log in with the administrator's user account.
 - [ ] [Login MC SafeSearch](../main/Level2/login-mc-safesearch.md) - Log in with MC SafeSearch's original user credentials without applying SQL Injection or any other bypass.
 - [X] [Meta Geo Stalking](../main/Level2/meta-geo-stalking.md) - Determine the answer to John's security question by looking at an upload of him to the Photo Wall and use it to reset his password via the Forgot Password mechanism.
