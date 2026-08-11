@@ -30,12 +30,12 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 
 ## Level 1 Challenges
 - [X] [Bonus Payload](../main/Level1/bonus-payload.md) - Use the bonus payload in the DOM XSS Challenge.
-- [ ] [Mass Dispel](../main/Level1/mass-dispel.md) - Close multiple "Challenge solved"-notifications in one go.
+- [X] [Mass Dispel](../main/Level1/mass-dispel.md) - Close multiple "Challenge solved"-notifications in one go.
 - [X] [Confidential Document](../main/Level1/confidential-document.md) - Access a confidential document.
 - [X] [DOM XSS](../main/Level1/dom-xss.md) - Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
 - [X] [Error Handling](../main/Level1/error-handling.md) - Provoke an error that is neither very gracefully nor consistently handled.
 - [X] [Exposed Metrics](../main/Level1/exposed-metrics.md) - Find the endpoint that serves usage data to be scraped by a popular monitoring system.
-- [ ] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
+- [X] [Missing Encoding](../main/Level1/missing-encoding.md) - Retrieve the photo of Bjoern's cat in "melee combat-mode".
 - [X] [Outdated Allowlist](../main/Level1/outdated-allowlist.md) - Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
 - [X] [Privacy Policy](../main/Level1/privacy-policy.md) - Read our privacy policy.
 - [X] [Repetitive Registration](../main/Level1/repetitive-registration.md) - Follow the DRY principle while registering a user. 
