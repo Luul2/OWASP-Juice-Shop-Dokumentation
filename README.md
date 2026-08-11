@@ -44,7 +44,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Web3 Sandbox](../main/Level1/web3-sandbox.md) - Find an accidentally deployed code sandbox for writing smart contracts on the fly.
 
 ## Level 2 Challenges
-- [ ] [Admin Section](../main/Level2/admin-section.md) - Access the administration section of the store.
+- [X] [Admin Section](../main/Level2/admin-section.md) - Access the administration section of the store.
 - [ ] [Deprecated Interface](../main/Level2/deprecated-interface.md) - Use a deprecated B2B interface that was not properly shut down.
 - [ ] [Exposed credentials](../main/Level2/exposed-credentials.md) - A developer was careless with hardcoding unused, but still valid credentials for a testing account on the client-side.
 - [ ] [Empty User Registration](../main/Level2/empty-user-registration.md) - Register a user with an empty email and password.
