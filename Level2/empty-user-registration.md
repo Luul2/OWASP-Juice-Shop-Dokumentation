@@ -1,6 +1,6 @@
 ## Empty user registration
 
-Zunächst im Juice Shop zur Benutzerregistrierung navigieren und beliebige Daten eingeben. Anschließend Burp Suite öffnen und Interception aktivieren. Danach auf registrieren klicken. 
+Zunächst im Juice Shop zur Benutzerregistrierung navigieren und beliebige Daten eingeben. Anschließend Burp Suite öffnen und Interception aktivieren. Danach auf "Register" klicken. 
 
 ![JSBild](Level2/Bilder/emptyuserregistration1.png)
 
