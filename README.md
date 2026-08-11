@@ -56,6 +56,6 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [ ] [Password Hash Leak](../main/Level2/password-hash-leak.md) - Obtain the password (hash) of the currently logged-in user directly from a REST API endpoint.
 - [ ] [Password Strength](../main/Level2/password-strength.md) - Log in with the administrator's user credentials without previously changing them or applying SQL Injection.
 - [ ] [Security Policy](../main/Level2/security-policy.md) - Behave like any "white-hat" should before getting into the action.
-- [ ] [View Basket](../main/Level2/view-basket.md) - View another user's shopping basket.
-- [ ] [Visual Geo Stalking](../main/Level2/visual-geo-stalking.md) -Determine the answer to Emma's security question by looking at an upload of her to the Photo Wall and use it to reset her password via the Forgot Password mechanism.
+- [X] [View Basket](../main/Level2/view-basket.md) - View another user's shopping basket.
+- [X] [Visual Geo Stalking](../main/Level2/visual-geo-stalking.md) -Determine the answer to Emma's security question by looking at an upload of her to the Photo Wall and use it to reset her password via the Forgot Password mechanism.
 - [ ] [Weird Crypto](../main/Level2/weird-crypto.md) - Inform the shop about an algorithm or library it should definitely not use the way it does.
