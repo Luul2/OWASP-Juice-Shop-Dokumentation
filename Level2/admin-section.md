@@ -1,6 +1,6 @@
 ## Admin Section
 
-Zunächst als **Admin** anmelden. Anschließend auf der Startseite den **Inspector** öffnen und den Seitenquelltext untersuchen. In der eingebundenen `main.js` befinden sich am Ende die verlinkten Pfade. Darunter befindet sich auch der Pfad zur **Admin Section**.
+Zunächst als **Admin** anmelden. Anschließend auf der Startseite den **Inspector** öffnen und den Seitenquelltext untersuchen. In der eingebundenen `main.js` befinden sich am Ende die verlinkten Pfade. Darunter befindet sich auch der Pfad zur Admin Section.
 
 ![JSBild](Level2/Bilder/admin-section1.png)
 
