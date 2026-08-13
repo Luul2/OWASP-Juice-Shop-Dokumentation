@@ -4,6 +4,6 @@ Im Quellcode vom Juice Shop nach Credentials suchen. Dabei erscheint eine Seite 
 
 ![JSBild](Level2/Bilder/exposedcredentials.png)
 
-Die Anmeldedaten eingeben:
+Die Anmeldedaten mit `testing@juice-sh.op` und `IamUsedForTesting` eingeben.
 
 ![JSBild](Level2/Bilder/exposedcredentials2.png)
