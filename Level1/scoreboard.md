@@ -1,6 +1,6 @@
 ## Score-Board
 
-Auf der Homepage von Juice Shop mit dem rechtsklick "Inspect(Q)" öffnen:
+Auf der Startseite des Juice Shops mit einem Rechtsklick das Menü öffnen und „Inspect (Q)“ auswählen.
 
 ![JSBild](Bilder/scoreboard1.png)
 
@@ -10,5 +10,5 @@ Anschließend im Inspector nach "score" suchen:
 
 Bei der Suche erscheint href="#/score-board". 
 
-Gibt man nun `http://localhost:3000/#score-board` ein, gelangt man auf die gesuchte Seite.
+Durch die Eingabe von `http://localhost:3000/#score-board` erscheint das Score-Board.
 
