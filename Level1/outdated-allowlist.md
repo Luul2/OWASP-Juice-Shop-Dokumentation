@@ -8,14 +8,14 @@ Die entsprechende js-Seite aufrufen und den Quellcode anzeigen lassen:
 
 ![JSBild](Bilder/outdatedallowlist2.png)
 
-Dann in dem Quellcode nach redirect oder blockchain suchen:
+In dem Quellcode nach redirect oder blockchain suchen:
 
 ![JSBild](Bilder/outdatedallowlist3.png)
 
-Zum Schluss den Endpunkt an die Homepage anfügen:
+Den Endpunkt an die Juice-Shop-Homepage anfügen:
 
 ![JSBild](Bilder/outdatedallowlist4.png)
 
-Jetzt nur noch die entsprechende Seite aufrufen:
+Die entsprechende Seite aufrufen:
 
 ![JSBild](Bilder/outdatedallowlist5.png)
