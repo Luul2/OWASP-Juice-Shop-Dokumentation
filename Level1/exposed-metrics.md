@@ -8,4 +8,4 @@ Durch Aufrufen von:
 
 Erscheint eine Seite mit internen Informationen über die Anwendung, darunter Prozessinformationen wie CPU-Auslastung oder Speicherverbrauch:
 
-![JSBild](Level2/Bilder/exposedmetrics.png)
+![JSBild](Bilder/exposedmetrics.png)
