@@ -2,4 +2,4 @@
 
 Mit dem Admin zur Admin-Section navigieren und da das Feedback mit den fünf Sternen löschen.
 
-![JSBild](Level2/Bilder/fivestarfeedback.png)
+![JSBild](Bilder/fivestarfeedback.png)
