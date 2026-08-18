@@ -52,7 +52,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Login Admin](../main/Level2/login-admin.md) - Log in with the administrator's user account.
 - [X] [Login MC SafeSearch](../main/Level2/login-mc-safesearch.md) - Log in with MC SafeSearch's original user credentials without applying SQL Injection or any other bypass.
 - [X] [Meta Geo Stalking](../main/Level2/meta-geo-stalking.md) - Determine the answer to John's security question by looking at an upload of him to the Photo Wall and use it to reset his password via the Forgot Password mechanism.
-- [ ] [NFT Takeover](../main/Level2/nft-takeover.md) - Take over the wallet containing our official Soul Bound Token (NFT).
+- [X] [NFT Takeover](../main/Level2/nft-takeover.md) - Take over the wallet containing our official Soul Bound Token (NFT).
 - [X] [Password Hash Leak](../main/Level2/password-hash-leak.md) - Obtain the password (hash) of the currently logged-in user directly from a REST API endpoint.
 - [X] [Password Strength](../main/Level2/password-strength.md) - Log in with the administrator's user credentials without previously changing them or applying SQL Injection.
 - [X] [Security Policy](../main/Level2/security-policy.md) - Behave like any "white-hat" should before getting into the action.
