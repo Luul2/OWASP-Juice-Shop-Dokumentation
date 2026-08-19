@@ -70,7 +70,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Deluxe Fraud](../main/Level3/deluxe-fraud.md) - Obtain a Deluxe Membership without paying for it.
 - [X] [Forged Feedback](../main/Level3/forged-feedback.md) - Post some feedback in another user's name.
 - [X] [Forged Review](../main/Level3/forged-review.md) - Post a product review as another user or edit any user's existing review.
-- [ ] [GDPR Data Erasure](../main/Level3/GDPR-data-erasure.md) - Log in with Chris' erased user account.
+- [X] [GDPR Data Erasure](../main/Level3/GDPR-data-erasure.md) - Log in with Chris' erased user account.
 - [X] [Login Amy](../main/Level3/login-amy.md) - Log in with Amy's original user credentials. (This could take 93.83 billion trillion trillion centuries to brute force, but luckily she did not read the "One Important Final Note")
 - [X] [Login Bender](../main/Level3/login-bender.md) - Log in with Bender's user account.
 - [X] [Login Jim](../main/Level3/login-jim.md) - Log in with Jim's user account.
