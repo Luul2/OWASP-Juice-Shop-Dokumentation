@@ -74,7 +74,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Login Amy](../main/Level3/login-amy.md) - Log in with Amy's original user credentials. (This could take 93.83 billion trillion trillion centuries to brute force, but luckily she did not read the "One Important Final Note")
 - [X] [Login Bender](../main/Level3/login-bender.md) - Log in with Bender's user account.
 - [X] [Login Jim](../main/Level3/login-jim.md) - Log in with Jim's user account.
-- [ ] [Manipulate Basket](../main/Level3/manipulate-basket.md) - Put an additional product into another user's shopping basket.
+- [X] [Manipulate Basket](../main/Level3/manipulate-basket.md) - Put an additional product into another user's shopping basket.
 - [ ] [Mint the Honey Pot](../main/Level3/mint-the-honey-pot.md) - Mint the Honey Pot NFT by gathering BEEs from the bee haven.
 - [X] [Payback Time](../main/Level3/payback-time.md) - Place an order that makes you rich.
 - [ ] [Privacy Policy Inspection](../main/Level3/privacy-policy-inspection.md) - Prove that you actually read our privacy policy.
