@@ -6,6 +6,6 @@ Im Juice Shop zu der Seite `http://localhost:3000/#/forgot-password` navigieren 
 
 ![JSBild](Bilder/jim.png)
 
-Eine kurze Recherche zu Jim Kirk ergibt, dass sein älterer Bruder George Samuel Kirk heißt. Also ist die Antwort `Samuel`.
+Eine kurze Recherche zu Jim Kirk ergibt, dass sein älterer Bruder George Samuel Kirk heißt. Demnach lautet die Antwort `Samuel`.
 
 ![JSBild](Bilder/jim1.png)
