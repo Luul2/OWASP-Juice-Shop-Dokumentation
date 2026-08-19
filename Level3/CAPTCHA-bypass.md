@@ -1,6 +1,6 @@
 ## CAPTCHA Bypass
 
-Im Juice Shop mit einem Benutzer anmelden und unter `http://localhost:3000/#/contact` eine Bewertung abgeben. Die dabei erzeugte Anfrage wird mit Burp Suite abgefangen, um die an den Server übermittelten HTTP-Daten zu untersuchen. 
+Im Juice Shop mit einem Benutzer anmelden und unter `http://localhost:3000/#/contact` eine Bewertung abgeben. Die dabei erzeugte Anfrage mit Burp Suite abfangen, um die an den Server übermittelten HTTP-Daten zu untersuchen. 
 
 ![JSBild](Bilder/captcha.png)
 
