@@ -65,9 +65,9 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Admin Registration](../main/Level3/admin-registration.md) - Register as a user with administrator privileges.
 - [ ] [Bjoern’s Favorite Pet](../main/Level3/bjoerns-favorite-pet.md) - Reset the password of Bjoern's OWASP account via the Forgot Password mechanism with the original answer to his security question.
 - [ ] [CAPTCHA Bypass](../main/Level3/CAPTCHA-bypass.md) - Submit 10 or more customer feedbacks within 20 seconds.
-- [ ] [CSRF](../main/Level3/CSRF.md) - Change the name of a user by performing Cross-Site Request Forgery from another origin.
+- [X] [CSRF](../main/Level3/CSRF.md) - Change the name of a user by performing Cross-Site Request Forgery from another origin.
 - [ ] [Database Schema](../main/Level3/database-schema.md) - Exfiltrate the entire DB schema definition via SQL Injection.
-- [ ] [Deluxe Fraud](../main/Level3/deluxe-fraud.md) - Obtain a Deluxe Membership without paying for it.
+- [X] [Deluxe Fraud](../main/Level3/deluxe-fraud.md) - Obtain a Deluxe Membership without paying for it.
 - [X] [Forged Feedback](../main/Level3/forged-feedback.md) - Post some feedback in another user's name.
 - [ ] [Forged Review](../main/Level3/forged-review.md) - Post a product review as another user or edit any user's existing review.
 - [ ] [GDPR Data Erasure](../main/Level3/GDPR-data-erasure.md) - Log in with Chris' erased user account.
