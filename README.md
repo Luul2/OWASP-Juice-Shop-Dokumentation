@@ -62,18 +62,18 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 
 
 ## Level 3 Challenges
-- [ ] [Admin Registration](../main/Level3/admin-registration.md) - Register as a user with administrator privileges.
+- [X] [Admin Registration](../main/Level3/admin-registration.md) - Register as a user with administrator privileges.
 - [ ] [Bjoern’s Favorite Pet](../main/Level3/bjoerns-favorite-pet.md) - Reset the password of Bjoern's OWASP account via the Forgot Password mechanism with the original answer to his security question.
 - [ ] [CAPTCHA Bypass](../main/Level3/CAPTCHA-bypass.md) - Submit 10 or more customer feedbacks within 20 seconds.
 - [ ] [CSRF](../main/Level3/CSRF.md) - Change the name of a user by performing Cross-Site Request Forgery from another origin.
 - [ ] [Database Schema](../main/Level3/database-schema.md) - Exfiltrate the entire DB schema definition via SQL Injection.
 - [ ] [Deluxe Fraud](../main/Level3/deluxe-fraud.md) - Obtain a Deluxe Membership without paying for it.
-- [ ] [Forged Feedback](../main/Level3/forged-feedback.md) - Post some feedback in another user's name.
+- [X] [Forged Feedback](../main/Level3/forged-feedback.md) - Post some feedback in another user's name.
 - [ ] [Forged Review](../main/Level3/forged-review.md) - Post a product review as another user or edit any user's existing review.
 - [ ] [GDPR Data Erasure](../main/Level3/GDPR-data-erasure.md) - Log in with Chris' erased user account.
 - [ ] [Login Amy](../main/Level3/login-amy.md) - Log in with Amy's original user credentials. (This could take 93.83 billion trillion trillion centuries to brute force, but luckily she did not read the "One Important Final Note")
-- [ ] [Login Bender](../main/Level3/login-bender.md) - Log in with Bender's user account.
-- [ ] [Login Jim](../main/Level3/login-jim.md) - Log in with Jim's user account.
+- [X] [Login Bender](../main/Level3/login-bender.md) - Log in with Bender's user account.
+- [X] [Login Jim](../main/Level3/login-jim.md) - Log in with Jim's user account.
 - [ ] [Manipulate Basket](../main/Level3/manipulate-basket.md) - Put an additional product into another user's shopping basket.
 - [ ] [Mint the Honey Pot](../main/Level3/mint-the-honey-pot.md) - Mint the Honey Pot NFT by gathering BEEs from the bee haven.
 - [ ] [Payback Time](../main/Level3/payback-time.md) - Place an order that makes you rich.
