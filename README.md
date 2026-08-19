@@ -63,7 +63,7 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 
 ## Level 3 Challenges
 - [X] [Admin Registration](../main/Level3/admin-registration.md) - Register as a user with administrator privileges.
-- [ ] [Bjoern’s Favorite Pet](../main/Level3/bjoerns-favorite-pet.md) - Reset the password of Bjoern's OWASP account via the Forgot Password mechanism with the original answer to his security question.
+- [X] [Bjoern’s Favorite Pet](../main/Level3/bjoerns-favorite-pet.md) - Reset the password of Bjoern's OWASP account via the Forgot Password mechanism with the original answer to his security question.
 - [X] [CAPTCHA Bypass](../main/Level3/CAPTCHA-bypass.md) - Submit 10 or more customer feedbacks within 20 seconds.
 - [X] [CSRF](../main/Level3/CSRF.md) - Change the name of a user by performing Cross-Site Request Forgery from another origin.
 - [ ] [Database Schema](../main/Level3/database-schema.md) - Exfiltrate the entire DB schema definition via SQL Injection.
