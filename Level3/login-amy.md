@@ -8,6 +8,6 @@ Die Beschreibung der Challenge gibt einen entscheidenenen Hinweis. Bei der Reche
 
 ![JSBild](Bilder/loginamy.png)
 
-Außerdem ist die Aufgabe an die Sendung Futurama angelehnt, bei der Amy einen Freund namens Kif hat. Verknüpft geben die beiden Erkenntnisse das Passwort: K1f.....................
+Außerdem ist die Aufgabe an die Sendung Futurama angelehnt, bei der Amy einen Freund namens Kif hat. Verknüpft geben die beiden Erkenntnisse das Passwort `K1f.....................`.
 
 ![JSBild](Bilder/loginamy1.png)
