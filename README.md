@@ -79,5 +79,5 @@ Um den Container nach einem Systemneustart zu starten, kann folgender Befehl ver
 - [X] [Payback Time](../main/Level3/payback-time.md) - Place an order that makes you rich.
 - [ ] [Privacy Policy Inspection](../main/Level3/privacy-policy-inspection.md) - Prove that you actually read our privacy policy.
 - [ ] [Product Tempering](../main/Level3/product-tempering.md) - Change the href of the link within the OWASP SSL Advanced Forensic Tool (O-Saft) product description into https://owasp.slack.com.
-- [ ] [Reset Jim's Password](../main/Level3/reset-jims-password.md) - Reset Jim's password via the Forgot Password mechanism with the original answer to his security question.
+- [X] [Reset Jim's Password](../main/Level3/reset-jims-password.md) - Reset Jim's password via the Forgot Password mechanism with the original answer to his security question.
 - [ ] [Upload Size](../main/Level3/upload-size.md) - Upload a file larger than 100 kB.
