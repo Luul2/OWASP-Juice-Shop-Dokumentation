@@ -9,3 +9,7 @@ In Burp Suite den entsprechenden Request selektieren und bei diesem den Wert fü
 ![JSBild](Bilder/forgedreview1.png)
 
 ![JSBild](Bilder/forgedreview2.png)
+
+Nach dem Absenden des modifizierten Requests wird die Bewertung unter dem Namen des angegebenen Benutzers veröffentlicht.
+
+![JSBild](Bilder/forgedreview3.png)
